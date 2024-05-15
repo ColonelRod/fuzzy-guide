@@ -1,1 +1,1 @@
-sosofsosapiurl:“https://api.bbs-chat.vip”
+ColonelRodapiurl:“https://api.bbs-chat.vip”
