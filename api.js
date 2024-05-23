@@ -1,1 +1,1 @@
-sosofsosapiurl:“https://api.bbs-chat.vip”
+sosofsosapiurl:“https://baidu.com”
